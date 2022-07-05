@@ -1,0 +1,8 @@
+.inputfield{
+    display: block;
+    font-size: medium;
+    color: red;
+}
+.inputfield .element {
+    padding: 2%;
+}
